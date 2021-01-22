@@ -1,0 +1,14 @@
+﻿{
+  "name": "com.borntocompile.unity-async-utilities",
+  "displayName": "Asnyc Utilities",
+  "version": "1.0.0",
+  "description": "A collection of extensions to help build and initialize a hierarchical structure of behaviours.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/born-to-compile/unity-async-utilities"
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.16.15"
+  },
+  "author": "Born To Compile"
+}
