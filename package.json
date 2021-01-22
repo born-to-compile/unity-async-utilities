@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.borntocompile.unity-async-utilities",
-  "displayName": "Asnyc Utilities",
+  "displayName": "B2c Asnyc Utilities",
   "version": "1.0.0",
   "description": "A collection of extensions to help build and initialize a hierarchical structure of behaviours.",
   "repository": {
