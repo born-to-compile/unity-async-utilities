@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "com.borntocompile.unity-async-utilities",
   "displayName": "B2c Asnyc Utilities",
   "version": "1.0.0",
@@ -10,5 +10,5 @@
   "dependencies": {
     "com.unity.addressables": "1.16.15"
   },
-  "author": "Born To Compile"
+  "author": "Born To Compile",
 }
